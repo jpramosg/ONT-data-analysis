@@ -1,6 +1,6 @@
 # ONT-data-analysis
 
-<img src="img/ONT.png" width="400" height="600">
+<img src="img/ONT.png" width="700" height="400">
 
 Information focused on the analysis of data from Oxford nanopore technologies using EPI2ME workflows and in-house scripts.
 
