@@ -15,7 +15,7 @@ Information focused on the analysis of data from Oxford nanopore technologies us
 Readings from oxford nanopore technologies are delivered to the user in pod5 and fast5 format.
 
 <p style="text-align: center;">
-    <img src="img/epi2me.jpg" width="300" height="500">
+    <img src="img/epi2me.jpg" width="300" height="200">
 </p>
 
 Data can be analyzed via GUI by downloading [EPI2ME labs](https://labs.epi2me.io/downloads/) or via command line using nextflow modules from [GitHub](https://github.com/epi2me-labs). It is advisable to transform this data to other aligned formats such as BAM, SAM and CRAM or non-aligned such as __fastq__ for which it is possible to use the wf-basecalling workflow. This module can be executed as follows: 
@@ -34,7 +34,7 @@ __Note__ : In case of more information about the configuration of the execution 
 
 Results 
 
-<img src="img/read_quality.png" width="1000" height="600">
+<img src="img/read_quality.png" width="8000" height="500">
 
 ## Transcriptome analysis in Musaceae
 
